@@ -1,7 +1,3 @@
-
-import cv2
-import numpy as np 
-
-
-if __name == '__main__':
-    a = cv2.imread('Image Path')
+if __name__ == '__main__':
+    for i in range(10):
+        print('*' * i)
