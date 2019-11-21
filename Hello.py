@@ -1,2 +1,7 @@
-if __name__ == "__main__":
-    print('Hello World')
+
+import cv2
+import numpy as np 
+
+
+if __name == '__main__':
+    a = cv2.imread('Image Path')
